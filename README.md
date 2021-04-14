@@ -7,5 +7,5 @@ A list of our CVE's with POCs
 |2| [CVE-2020-7753](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-7753) | trim | [Yes](https://github.com/yetingli/PoCs/blob/main/CVE-2020-7753/CVE-2020-7753.js) | 10/11/2020 | [Liyuan Chen](https://github.com/chedan90)  |
 |3| [CVE-2020-7754](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-7754) | npm-user-validate | [Yes](https://github.com/yetingli/PoCs/blob/main/CVE-2020-7754/CVE-2020-7754.js) | 10/16/2020 | [Yeting Li](https://github.com/yetingli) |
 |4| [CVE-2020-7755](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-7755) | dat.gui | [Yes](https://github.com/yetingli/PoCs/blob/main/CVE-2020-7755/CVE-2020-7755.md) | 10/07/2020 | [Yeting Li](https://github.com/yetingli) |
-|5| [CVE-2020-7760](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-7760) | codemirror | [Yes](https://github.com/yetingli/PoCs/blob/main/CVE-2020-7760) | 10/07/2020 | [Yeting Li](https://github.com/yetingli) |
+|5| [CVE-2020-7760](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-7760) | codemirror | [Yes](https://github.com/yetingli/PoCs/blob/main/CVE-2020-7760) | 10/09/2020 | [Yeting Li](https://github.com/yetingli) |
 
