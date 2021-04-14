@@ -1,5 +1,5 @@
 # PoCs
-A list of our CVE's with POCs
+A list of CVE's with POCs
 
 | ID| CVE|  Package |  PoC Verified  | Disclosure Date (M/D/Y) |Credit  |
 |---|---|---|---|---|---|
