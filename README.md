@@ -11,4 +11,4 @@ A list of our CVE's with POCs
 |6| [CVE-2020-7761](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-7761) | @absolunet/kafe | [Yes](https://github.com/yetingli/PoCs/blob/main/CVE-2020-7761/CVE-2020-7761.js) | 10/14/2020 | Yeting Li |
 |7| [CVE-2020-7767](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-7767) | express-validators | [Yes](https://github.com/yetingli/PoCs/blob/main/CVE-2020-7767/CVE-2020-7767.js) | 10/14/2020 | Yeting Li |
 |8| [CVE-2020-7779](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-7779) | djvalidator | [Yes](https://github.com/yetingli/PoCs/blob/main/CVE-2020-7779) | 10/15/2020 | Yeting Li |
-|9| [CVE-2020-7793](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-7793) | ua-parser-js | [Yes](https://github.com/yetingli/PoCs/blob/main/CVE-2020-7793) | 10/29/2020 | [Miguel de Moura,](https://github.com/migueldemoura/) Yeting Li |
+|9| [CVE-2020-7793](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-7793) | ua-parser-js | [Yes](https://github.com/yetingli/PoCs/blob/main/CVE-2020-7793) | 10/29/2020 | Yeting Li, [Miguel de Moura](https://github.com/migueldemoura/)  |
