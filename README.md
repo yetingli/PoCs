@@ -8,4 +8,5 @@ A list of our CVE's with POCs
 |3| [CVE-2020-7754](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-7754) | npm-user-validate | [Yes](https://github.com/yetingli/PoCs/blob/main/CVE-2020-7754/CVE-2020-7754.js) | 10/16/2020 | Yeting Li |
 |4| [CVE-2020-7755](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-7755) | dat.gui | [Yes](https://github.com/yetingli/PoCs/blob/main/CVE-2020-7755/CVE-2020-7755.md) | 10/07/2020 | Yeting Li |
 |5| [CVE-2020-7760](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-7760) | codemirror | [Yes](https://github.com/yetingli/PoCs/blob/main/CVE-2020-7760) | 10/09/2020 | Yeting Li |
-|5| [CVE-2020-7761](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-7761) | @absolunet/kafe | [Yes](https://github.com/yetingli/PoCs/blob/main/CVE-2020-7761/CVE-2020-7761.js) | 10/14/2020 | Yeting Li |
+|6| [CVE-2020-7761](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-7761) | @absolunet/kafe | [Yes](https://github.com/yetingli/PoCs/blob/main/CVE-2020-7761/CVE-2020-7761.js) | 10/14/2020 | Yeting Li |
+|7| [CVE-2020-7767](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-7767) | express-validators | [Yes](https://github.com/yetingli/PoCs/blob/main/CVE-2020-7767/CVE-2020-7767.js) | 10/14/2020 | Yeting Li |
