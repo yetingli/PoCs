@@ -13,3 +13,4 @@ A list of CVE's with Proof of Concepts
 |8| [CVE-2020-7779](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-7779) | djvalidator | [Yes](https://github.com/yetingli/PoCs/blob/main/CVE-2020-7779) | 10/15/2020 | Yeting Li |
 |9| [CVE-2020-7793](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-7793) | ua-parser-js | [Yes](https://github.com/yetingli/PoCs/blob/main/CVE-2020-7793) | 10/29/2020 | Yeting Li, [Miguel de Moura](https://github.com/migueldemoura/)  |
 |10| [CVE-2020-28469](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-28469) | glob-parent  | [Yes](https://github.com/yetingli/PoCs/blob/main/CVE-2020-28469/CVE-2020-28469.js) | 01/12/2021 | Yeting Li |
+|11| [CVE-2020-28493](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-28493) | jinja2  | [Yes](https://github.com/yetingli/PoCs/blob/main/CVE-2020-28493/CVE-2020-28493.py) | 09/25/2020 | Yeting Li |
