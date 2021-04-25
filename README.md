@@ -20,3 +20,4 @@ A list of CVE's with Proof of Concepts
 |15| [CVE-2021-21317](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2021-21317) | uap-core  | [Yes](https://github.com/yetingli/PoCs/blob/main/CVE-2021-21317/CVE-2021-21317.js) | 12/22/2020 | Yeting Li|
 |16| [CVE-2021-23341](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2021-23341) | prismjs  | [Yes](https://github.com/yetingli/PoCs/blob/main/CVE-2021-23341) | 10/11/2020 | Yeting Li|
 |17| [CVE-2021-23346](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2021-23346) | html-parse-stringify/html-parse-stringify2  | [Yes](https://github.com/yetingli/PoCs/blob/main/CVE-2021-23346) | 03/01/2021 | Yeting Li|
+|18| [CVE-2021-23353](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2021-23353) | jspdf  | [Yes](https://github.com/yetingli/PoCs/blob/main/CVE-2021-23353/jspdf.js) | 02/12/2021 | Yeting Li|
