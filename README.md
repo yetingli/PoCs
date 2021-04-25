@@ -22,3 +22,4 @@ A list of CVE's with Proof of Concepts
 |17| [CVE-2021-23346](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2021-23346) | html-parse-stringify/html-parse-stringify2  | [Yes](https://github.com/yetingli/PoCs/blob/main/CVE-2021-23346) | 03/01/2021 | Yeting Li|
 |18| [CVE-2021-23353](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2021-23353) | jspdf  | [Yes](https://github.com/yetingli/PoCs/blob/main/CVE-2021-23353/jspdf.js) | 02/12/2021 | Yeting Li|
 |19| [CVE-2021-23354](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2021-23354) | printf  | [Yes](https://github.com/yetingli/PoCs/blob/main/CVE-2021-23354/CVE-2021-23354.js) | 02/09/2021 | Yeting Li|
+|20| [CVE-2021-27290](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2021-27290) | ssri  | [Yes](https://github.com/yetingli/PoCs/blob/main/CVE-2021-27290/ssri.js) | 12/05/2020 | Yeting Li, [Ben Caller](https://github.com/b-c-ds)|
