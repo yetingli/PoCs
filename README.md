@@ -17,3 +17,4 @@ A list of CVE's with Proof of Concepts
 |12| [CVE-2020-28496](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-28496) | three  | [Yes](https://github.com/yetingli/PoCs/blob/main/CVE-2020-28496/CVE-2020-28496.js) | 01/26/2021 | Yeting Li, [Liyuan Chen](https://github.com/chedan90) |
 |13| [CVE-2020-28500](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-28500) | lodash  | [Yes](https://github.com/yetingli/PoCs/blob/main/CVE-2020-28500/CVE-2020-28500.js) | 10/16/2020 | [Liyuan Chen](https://github.com/chedan90) |
 |14| [CVE-2020-29651](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-29651) | py  | [Yes](https://github.com/yetingli/PoCs/blob/main/CVE-2020-29651/CVE-2020-29651.py) | 12/09/2020 | Yeting Li|
+|15| [CVE-2021-21317](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2021-21317) | uap-core  | [Yes](https://github.com/yetingli/PoCs/blob/main/CVE-2021-21317/CVE-2021-21317.js) | 12/22/2020 | Yeting Li|
